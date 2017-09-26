@@ -1,0 +1,3 @@
+[submodule "docker\\newspaper-demo"]
+	path = docker\\newspaper-demo
+	url = https://github.com/codelucas/newspaper-demo.git
